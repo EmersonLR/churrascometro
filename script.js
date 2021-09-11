@@ -5,7 +5,7 @@
 
 
 let inputAdultos = document.getElementById("adulto");
-let inputCriancas = document.getElementById("crianca");;
+let inputCriancas = document.getElementById("crianca");
 let inputDuracao = document.getElementById("duracao")
 
 let resultado = document.getElementById("resultado")
